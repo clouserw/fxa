@@ -17220,6 +17220,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"cron@npm:2.2.0":
+  version: 2.2.0
+  resolution: "cron@npm:2.2.0"
+  dependencies:
+    luxon: ^3.2.1
+  checksum: 53905d0f55e052742cf4fed34598a4ebfc311f4f9143c90384225bb4376fa639cd12f485cbf5d3dca00db377bf5117f27a1cae405f15e4745d1f69808e4fb9ac
+  languageName: node
+  linkType: hard
+
 "cross-spawn-async@npm:2.2.5":
   version: 2.2.5
   resolution: "cross-spawn-async@npm:2.2.5"
@@ -22682,7 +22691,7 @@ fsevents@~2.1.1:
     audit-filter: ^0.5.0
     bluebird: ^3.7.2
     chai: ^4.3.6
-    cron: 1.8.2
+    cron: 2.2.0
     eslint: ^7.32.0
     eslint-plugin-fxa: ^2.0.2
     fxa-shared: "workspace:*"
@@ -30483,6 +30492,13 @@ fsevents@~2.1.1:
   version: 2.3.2
   resolution: "luxon@npm:2.3.2"
   checksum: ba4f9daa56d03771c2ddf00e3bf996ec7937badfdc2f85f5b58d63c75bb511369b3316f54ab9ce5ab42bfc9118513971f6599128529b68620b876a4b7c16570b
+  languageName: node
+  linkType: hard
+
+"luxon@npm:^3.2.1":
+  version: 3.2.1
+  resolution: "luxon@npm:3.2.1"
+  checksum: 3fa3def2c5f5d3032b4c46220c4da8aeb467ac979888fc9d2557adcd22195f93516b4ad5909a75862bec8dc6ddc0953b0f38e6d2f4a8ab8450ddc531a83cf20d
   languageName: node
   linkType: hard
 
